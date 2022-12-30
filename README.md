@@ -1,2 +1,2 @@
 # tic-tac-toe
-Single player Tic Tac Toe game
+Single player Tic Tac Toe game against the computer
