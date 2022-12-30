@@ -1,0 +1,10 @@
+Welcome to tic tac toe, you play this game by placing an X in a numbered position!
+The AI will place an O after your turn!
+If you get 3 X's horizontally, vertically or diagonally you win the game!
+Give a command to place an X!
+
+1|2|3
+-+-+-
+4|5|6
+-+-+-
+7|8|9
